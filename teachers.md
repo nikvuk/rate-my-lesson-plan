@@ -46,3 +46,11 @@ Press the **Download** button in the simulator and a dialog will appear:
 ![](assets/1.png)
 
 To install it to the Microbit, connect it to the computer with USB and copy the downloaded `.hex` file to the MICROBIT drive that appears. [More information](https://makecode.microbit.org/device/usb).
+
+The program will run automatically once it's copied over to the device.
+
+## Next steps
+
+If your students would like to take this further, some things they could do are:
+
+* Send the 
