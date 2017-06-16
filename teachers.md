@@ -1,4 +1,4 @@
-# Getting started - for teachers
+# Guide for teachers
 
 ## Intro
 
@@ -35,4 +35,8 @@ The program needs to do the following things:
 1. When button A is pressed, decrease the score by one and briefly show an `X` icon on the LED panel.
 1. When button B is pressed, increase the score by one and briefly show a `tick` icon on the LED panel.
 
+Testing is an important part of software development, so encourage your students to test that things are working as they go.
+
 [An example of how the finished program may look](https://makecode.microbit.org/_Tq9YXJPPjEuz). Note that the code doesn't have to look exactly like the example, as long as it works anything goes!
+
+## Step 3 - Put the code on the Microbit.
