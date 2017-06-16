@@ -11,4 +11,5 @@ You may have some or all of these items already.
 | Big green button | 1 | £6.66 | £6.66 | https://www.coolcomponents.co.uk/en/big-dome-push-button-green.html |
 | Various parts to connect buttons to microdot | | | | e.g. breadboard, resistors, wires |
 | Various materials to mount the buttons | | | | e.g. wood, glue |
+| Computer or laptop with web browser and usb port | | | | |
 | TOTAL | | | £138.32 | |
