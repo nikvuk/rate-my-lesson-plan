@@ -12,7 +12,9 @@ In this workshop you will learn how to build an interface to rate your lesson! S
 
 ## Final Outcome
 
-Add PHOTO
+The microbit records your button presses as rating for the lesson (positive or negative), acknowledges your input, and displays the current ratings score (see the photo).
+*Add PHOTO*
+You will have had a chance to experiment with your code, try different things and review each other's work.
 
 ## Workshop Activity Plan
 
