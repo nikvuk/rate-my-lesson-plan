@@ -40,3 +40,9 @@ Testing is an important part of software development, so encourage your students
 [An example of how the finished program may look](https://makecode.microbit.org/_Tq9YXJPPjEuz). Note that the code doesn't have to look exactly like the example, as long as it works anything goes!
 
 ## Step 3 - Put the code on the Microbit.
+
+Press the **Download** button in the simulator and a dialog will appear:
+
+![](assets/1.png)
+
+To install it to the Microbit, connect it to the computer with USB and copy the downloaded `.hex` file to the MICROBIT drive that appears. [More information](https://makecode.microbit.org/device/usb).
