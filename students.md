@@ -1,10 +1,18 @@
 ## Workshop Activity Outline
 
+In this workshop you will learn how to build an interface to rate your lesson! Submitting feedback after each lesson gives your teacher the opporunity to continually improve your lessons. During this session you will learn how to write the basic code and build the physical interface to put up in your classroom.
+
 ## Planned Learning Outcomes
+
+* Learn to break up a problem into smaller logical chunks to solve
+* Basic computer programming logic - initially through block code, then a coding language (Python)
+* Introduction to electronics
+* Teamwork - reflecting how engineers work in the industry
+* The value of feedback from your peers and mentors
 
 ## Final Outcome
 
-![satisfaction buttons](https://www.borne-satisfaction.com/wp-content/uploads/2017/02/borne-satisfaction-smiley-Agora-Opinion.jpg "satisfaction buttons")
+Add PHOTO
 
 ## Workshop Activity Plan
 
