@@ -1,5 +1,7 @@
 ## Workshop Activity Outline
 
+In this workshop you will learn how to build an interface to rate your lesson! Submitting feedback after each lesson gives your teacher the opporunity to continually improve your lessons. During this session you will learn how to write the basic code and build the physical interface to put up in your classroom.
+
 ## Planned Learning Outcomes
 
 ## Final Outcome
