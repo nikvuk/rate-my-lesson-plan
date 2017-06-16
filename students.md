@@ -2,9 +2,15 @@
 
 ## Planned Learning Outcomes
 
+* Learn to break up a problem into smaller logical chunks to solve
+* Basic computer programming logic - initially through block code, then a coding language (Python)
+* Introduction to electronics
+* Teamwork - reflecting how engineers work in the industry
+* The value of feedback from your peers and mentors
+
 ## Final Outcome
 
-![satisfaction buttons](https://www.borne-satisfaction.com/wp-content/uploads/2017/02/borne-satisfaction-smiley-Agora-Opinion.jpg "satisfaction buttons")
+Add PHOTO
 
 ## Workshop Activity Plan
 
