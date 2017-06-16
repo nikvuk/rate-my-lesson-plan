@@ -34,3 +34,5 @@ The program needs to do the following things:
 1. Keep record of a score and display it on the LED panel, beginning at zero.
 1. When button A is pressed, decrease the score by one and briefly show an `X` icon on the LED panel.
 1. When button B is pressed, increase the score by one and briefly show a `tick` icon on the LED panel.
+
+[An example of how the finished program may look](https://makecode.microbit.org/_Tq9YXJPPjEuz). Note that the code doesn't have to look exactly like the example, as long as it works anything goes!

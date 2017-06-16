@@ -1,7 +1,5 @@
 # Rate my lesson plan
 
-https://makecode.microbit.org/_Tq9YXJPPjEuz
-
 ## About
 
 **Work in progress!**
