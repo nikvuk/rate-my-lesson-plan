@@ -19,6 +19,8 @@ Direct your students to the online simulator at https://makecode.microbit.org.
 
 The interface they're presented with will look something like this:
 
+![](assets/0.png)
 
+The right hand side of the interface has the visual editor, where students can drag and drop elements of the program and built it up.
 
-On the left of the screen is a virtual Microbit. On the
+The left side is a virtual version of the Microbit. It functions exactly as a real one would, including pressable buttons.
