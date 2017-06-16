@@ -4,7 +4,7 @@
 
 ## Final Outcome
 
-Add PHOTO
+![satisfaction buttons](https://www.borne-satisfaction.com/wp-content/uploads/2017/02/borne-satisfaction-smiley-Agora-Opinion.jpg "satisfaction buttons")
 
 ## Workshop Activity Plan
 
