@@ -1,4 +1,7 @@
 ## Workshop Activity Outline
 
+Planned Learning Outcomes
 
-test
+Final Outcome
+
+Add PHOTO
