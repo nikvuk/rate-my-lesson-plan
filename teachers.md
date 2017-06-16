@@ -37,6 +37,12 @@ The program needs to do the following things:
 
 Testing is an important part of software development, so encourage your students to test that things are working as they go.
 
+To make things easier, we've prepared three different versions of the program in various states of completeness. Choose the one to give your students based on their ability level:
+
+* [Easy](https://makecode.microbit.org/_Hmz9LcecKHUu) - The program is mostly done, they just need to add the logic for incrementing and decrementing the score, along with displaying ticks and crosses.
+* [Intermediate](https://makecode.microbit.org/_EyHAwJftdCkg) - Some parts of the program are already filled out, but they'll need to add the scoring logic and the variable to store it.
+* [Advanced](https://makecode.microbit.org) - Start from scratch.
+
 [An example of how the finished program may look](https://makecode.microbit.org/_Tq9YXJPPjEuz). Note that the code doesn't have to look exactly like the example, as long as it works anything goes!
 
 ## Step 3 - Put the code on the Microbit.
@@ -51,6 +57,8 @@ The program will run automatically once it's copied over to the device.
 
 ## Next steps
 
-If your students would like to take this further, some things they could do are:
+To take this further, some things students could do are:
 
-* Send the 
+* Take a look at how the JavaScript code changes when things are changed in the visual editor.
+* Implement the ability to reset the score (Hint: there is a built-in action for shaking the Microbit).
+* Currently the score is lost whenever the Microbit is turned off. How might they save the score? (Hint: they could save it to a file whenever it changes, and then retrieve the last score from the file when the program starts)
