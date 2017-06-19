@@ -19,7 +19,7 @@ We wrote a scheme of work for a day-long activity, including:
 * Drag-and-drop and test instructions in the web-based simulator.
 * Download the code onto a physical micro:bit.
 * Wiring up the hardware big buttons for like and dislike to replace the inputs into the micro:bit.
-* Lots of ideas for further, advanced, work.
+* Lots of ideas for further more advanced work.
 
 We also dived down and wrote a detailed lesson plan for the first stage.
 The idea is that the materials can be self-served or can be delivered by
