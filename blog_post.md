@@ -27,8 +27,11 @@ one of us should we choose to work with a charity and take this activity
 into a school. We have published what we made to a Github repo that can be
 freely downloaded or forked.
 
-Additionally we wrote a short 15 minute ice-breaker activity that
-introduces the ideal of imperative programming.
+Additionally we wrote a 30 minute ice-breaker activity that
+introduces the idea of imperative programming. It is a basic sorting algorithm 
+to sort out Cats and Dogs (using
+[a predefined image recognition library](https://www.kaggle.com/c/dogs-vs-cats)) but 
+where learners are the robots performing the program written by others.
 
 The team would like to carry on working on this project in our spare time, and have
 scheduled a monthly meetup to track progress. The hope is to have our worksheet
