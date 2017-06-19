@@ -6,9 +6,9 @@ inspire young people about the potential, importance, and excitement of a
 career in engineering. HRH the Duke of York has been the patron of Young
 Engineers since 2004.
 
-The team received a brief on the charity's goals and work from Heather,
-along with advice on the scope our activity should have, and instructions on how
-to write our proposal up.
+The team received a brief on the charity's goals and work from it's CEO Heather
+Williams, along with advice on the scope our activity should have, and instructions
+on how to write our proposal up.
 
 We came up with an idea of building a "rate my lesson" feedback system,
 like the "smiley face, sad face" boards you see at airport security. We
