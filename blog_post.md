@@ -30,9 +30,11 @@ freely downloaded or forked.
 Additionally we wrote a short 15 minute ice-breaker activity that
 introduces the ideal of imperative programming.
 
-The team would like to carry on working on this project in our spare time, and have scheduled
-a monthly meetup to track progress. The hope is to have our worksheet
+The team would like to carry on working on this project in our spare time, and have
+scheduled a monthly meetup to track progress. The hope is to have our worksheet
 finished in a year and take it into a school for #OneDay2018.
+
+If you would like to get involved please join us on Slack: [#1day-ldn-young-engine](https://skyscanner.slack.com/messages/C5UNK0Q02) - thank you.
 
 Team:
 * Andi Rutherford
