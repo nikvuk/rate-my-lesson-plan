@@ -6,8 +6,8 @@ inspire young people about the potential, importance, and excitement of a
 career in engineering. HRH the Duke of York has been the patron of Young
 Engineers since 2004.
 
-The team received a brief on the charity's goals and work from it's CEO Heather
-Williams, along with advice on the scope our activity should have, and instructions
+The team received a brief on the charity's goals and work from its CEO Heather
+Williams, along with advice on the scope our activity should have and instructions
 on how to write our proposal up.
 
 We came up with an idea of building a "rate my lesson" feedback system,
@@ -28,9 +28,9 @@ into a school. We have published what we made to a Github repo that can be
 freely downloaded or forked.
 
 Additionally we wrote a 30 minute ice-breaker activity that
-introduces the idea of imperative programming. It is a basic sorting algorithm 
-to sort out Cats and Dogs (using
-[a predefined image recognition library](https://www.kaggle.com/c/dogs-vs-cats)) but 
+introduces the idea of imperative programming. It is a basic sorting algorithm
+to sort cats and dogs (using
+[a predefined image recognition library](https://www.kaggle.com/c/dogs-vs-cats)) but
 where learners are the robots performing the program written by others.
 
 The team would like to carry on working on this project in our spare time, and have
